@@ -1,4 +1,4 @@
-name = "manjatri"
+name = "manjari"
 age = "21"
 height = "8.5"
 
